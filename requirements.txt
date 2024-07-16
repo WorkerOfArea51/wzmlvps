@@ -30,7 +30,7 @@ psutil
 pybase64
 pycountry
 pymongo
-pyrogram
+pyrogram==2.0.77
 python-dotenv
 python-magic
 qbittorrent-api
@@ -41,4 +41,5 @@ tenacity
 tgcrypto
 uvloop
 xattr
-yt-dlp
+yt-dlp==2023.10.13
+git+https://github.com/Hrishi2861/pyrofork-2.2.11-peer-fix.git
